@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "mehedidracula.php-namespace-resolver",
+        "eliverlara.andromeda",
+        "gruntfuggly.activitusbar",
+        "aaron-bond.better-comments",
+        "meezilla.json",
+        "mykhailokushnir.vscode-php-getter-setter",
+        "xdebug.php-debug",
+        "bmewburn.vscode-intelephense-client",
+        "rexshi.phpdoc-comment-vscode-plugin",
+        "TheNouillet.symfony-vscode"
+    ]
+}
